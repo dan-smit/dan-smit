@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dan</h1>
-<h3 align="center">A full-stack software engineer with an interest in web development and AI/ML</h3>
+<h3 align="center">A full-stack software engineer with an interest in AI/ML</h3>
 
 - 🌱 I’m currently learning **node.js, mongodb, and express**
 
