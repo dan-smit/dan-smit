@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React and data structures/algorithms**
 
-- 👨‍💻 All of my projects are available at [danielsmith.netlify.app](danielsmith.netlify.app)
+- 👨‍💻 All of my projects are available at <a href="https://danielsmith.netlify.app" target="_blank">danielsmith.netlify.app</a>
 
 - 📫 How to reach me **danielsmithche@gmail.com**
 
