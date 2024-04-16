@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">A working engineer with an interest in AI/ML. Pursuing a masters in analytics. </h3>
+<h3 align="center">A working engineer with an interest in AI/ML. Pursuing a masters in data science/analytics. </h3>
 
 - 🌱 I’m currently learning/studying **Python, R, and Data Structures/Algorithms**
 
