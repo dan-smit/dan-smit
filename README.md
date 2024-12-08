@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">A working engineer with an interest in AI/ML. Pursuing a masters in data science/analytics. </h3>
+<h3 align="center">A working engineer currently pursing a masters in data science/analytics with a strong interest in AI/ML. </h3>
 
-- 🌱 I’m currently learning/studying **Python, R, and Data Structures/Algorithms**
+- 🌱 I’m currently learning/studying **Python, Tableau**
 
-- 👨‍💻 I self-taught web development. My projects are available at <a href="https://danielsmith.netlify.app" target="_blank">danielsmith.netlify.app</a>
+- 👨‍💻 My projects are available at <a href="https://danielsmith.netlify.app" target="_blank">danielsmith.netlify.app</a>
 
 - 📫 How to reach me **danielsmithche@gmail.com**
 
