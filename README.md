@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A working engineer currently pursing a masters in data science/analytics with a strong interest in AI/ML. </h3>
 
-- 🌱 I’m currently learning/studying **Python, Tableau**
+- 🌱 I’m currently learning/studying **Deep Learning, GenAI Applications, and Bayesian Statistics**
 
 - 👨‍💻 My projects are available at <a href="https://danielsmith.netlify.app" target="_blank">danielsmith.netlify.app</a>
 
